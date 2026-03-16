@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- [Single Player Build System](https://github.com/equalisysdev/spbuild): a simple rusty cross platform build system for C++ (WIP)<br><br>🌱 I’m currently learning:<br>- Vulkan and Computer Graphics<br>- Rust<br><br>💬 Ask me about:<br>- Anything :D<br><br>⚡ Fun fact:<br>- i'm fench (baguette)<br>- I make music (equalisys on every platform)
+🔭 I’m currently working on:<br>- [Single Player Build System](https://github.com/bluelightsoftworks/spbuild): a simple rusty cross platform build system for C++ (WIP)<br><br>🌱 I’m currently learning:<br>- Vulkan and Computer Graphics<br>- Rust<br><br>💬 Ask me about:<br>- Anything :D<br><br>⚡ Fun fact:<br>- i'm fench (baguette)<br>- I make music (equalisys on every platform)
 
 
 ## 🌐 Socials:
